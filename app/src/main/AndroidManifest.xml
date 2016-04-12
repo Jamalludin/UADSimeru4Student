@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.jamalludin.uadsimeru4student">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".SplashActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".LoginActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar"
+            android:label="login">
+        </activity>
+
+        <activity android:name=".MainActivity"
+            android:label="UADSimeru4Student">
+        </activity>
+
+        <activity android:name=".JadwalDosenActivity"
+            android:label="Jadwal Dosen">
+        </activity>
+
+        <activity android:name=".JadwalKuliahActivity"
+            android:label="Jadwal Kuliah">
+        </activity>
+
+        <activity android:name=".JadwalRuangActivity"
+            android:label="Jadwal Ruang">
+        </activity>
+
+        <activity android:name=".PengumumanActivity"
+            android:label="Pengumuman">
+        </activity>
+
+
+    </application>
+
+</manifest>
