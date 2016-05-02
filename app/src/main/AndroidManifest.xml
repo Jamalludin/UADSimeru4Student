@@ -30,7 +30,8 @@
             android:label="Jadwal Dosen">
         </activity>
 
-        <activity android:name=".JadwalKuliahActivity"
+        <activity
+            android:name=".JadwalKuliahActivity"
             android:label="Jadwal Kuliah">
         </activity>
 
