@@ -1,3 +1,114 @@
 <resources>
     <string name="app_name">UADSimeru4Student</string>
+
+    <string-array name="planets_array">
+        <item>Pilih Fakultas</item>
+        <item>Fakultas Ekonomi</item>
+        <item>Fakultas Hukum</item>
+        <item>Fakultas Farmasi</item>
+        <item>Fakultas Keguruan Dan Ilmu Pendidikan</item>
+        <item>Fakultas Kesehatan Masyarakat</item>
+        <item>Fakultas Psikologi</item>
+        <item>Fakultas Sastra</item>
+        <item>Fakultas Teknologi Industri</item>
+        <item>Fakultas Matematika Dan Ilmu Pengetahuan</item>
+        <item>Pascasarjana Teknik</item>
+        <item>Fakultas Tarbiyah Dirasat Islamiyah</item>
+    </string-array>
+
+    <string-array name="program_studi_ekonomi">
+        <item>Pilih Program Studi</item>
+        <item>Ekonomi Pembangunan</item>
+        <item>Management</item>
+        <item>Akutansi</item>
+        <item>Management Prosus</item>
+    </string-array>
+
+    <string-array name="farmasi">
+        <item>Pilih Program Studi</item>
+        <item>Farmasi</item>
+        <item>Profesi Apoteker</item>
+        <item>Pasca Farmasi Klinik</item>
+        <item>Pasca Pengembangan Obat dan Kosmetika Bahan</item>
+    </string-array>
+
+    <string-array name="Hukum">
+        <item>Pilih Program Studi</item>
+        <item>Ilmu Hukum</item>
+    </string-array>
+
+    <string-array name="keguruan">
+        <item>Pilih Program Studi</item>
+        <item>Pendidikan Biologi</item>
+        <item>Pendidikan Matematika</item>
+        <item>Pendidikan Bahasa-Sastra Indonesia</item>
+        <item>Pendidikan Bahasa Inggris</item>
+        <item>Bimbingan dan Konseling</item>
+        <item>Pendidikan Fisika</item>
+        <item>Pendidikan Pancasila Dan Kewarganegaraan</item>
+        <item>PGSD</item>
+        <item>Pasca Pendidikan Fisika S2</item>
+        <item>Pasca PBI S2</item>
+        <item>PGMIPA UNGGULAN P.Matematika</item>
+        <item>PGMIPA UNGGULAN P.Fisika</item>
+        <item>PGMIPA UNGGULAN P.Biologi</item>
+        <item>PAUD</item>
+        <item>Pasca Management Pendidikaa (S2)</item>
+    </string-array>
+
+    <string-array name="fkm">
+        <item>Pilih Program Studi</item>
+        <item>Ilmu Kesehatan Masyarakat</item>
+        <item>Alih Jalur Ilmu Kesehatan Masyarakat</item>
+    </string-array>
+
+    <string-array name="psikologi">
+        <item>Pilih Program Studi</item>
+        <item>Psikologi</item>
+        <item>Pasca Sains Psikologi S2</item>
+        <item>Megister Psikologi Profesi</item>
+    </string-array>
+
+    <string-array name="sastra">
+        <item>Pilih Program Studi</item>
+        <item>Sastra Inggris</item>
+        <item>Sastra Indonesia</item>
+        <item>Sastra Indonesia Khusus China</item>
+        <item>Ilmu Komunikasi</item>
+    </string-array>
+
+    <string-array name="fti">
+        <item>Pilih Program Studi</item>
+        <item>Teknik Informatika</item>
+        <item>Teknik Industri</item>
+        <item>Teknik Kimia</item>
+        <item>Teknik Elektro</item>
+        <item>Teknik Informatika Prosus</item>
+    </string-array>
+
+    <string-array name="fmipa">
+        <item>Pilih Program Studi</item>
+        <item>Sistem Informasi</item>
+        <item>Fisika</item>
+        <item>Biologi</item>
+        <item>Matematika</item>
+    </string-array>
+
+    <string-array name="sarjanateknik">
+        <item>Pilih Program Studi</item>
+        <item>Magister Teknologi Informasi</item>
+    </string-array>
+
+    <string-array name="tarbiyah">
+        <item>Pilih Program Studi</item>
+        <item>Tafsir Hadist</item>
+        <item>Bahasa dan Sastra Arab</item>
+        <item>Pendidikan Agama Islam (Jogja)</item>
+        <item>Pendidikan Agama ISlam (Wates)</item>
+    </string-array>
+
+    <string-array name="defaultt">
+        <item>Pilih Program Studi</item>
+    </string-array>
+
 </resources>
